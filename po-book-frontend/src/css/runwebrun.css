@@ -7269,7 +7269,7 @@ textarea.form-control.is-invalid {
 }
 
 .accordion-item {
-    background-color: #fff;
+    /* background-color: #fff; */
     border: 1px solid rgba(177, 177, 180, 0.3);
 }
 
@@ -39989,14 +39989,14 @@ textarea.form-control.is-invalid {
     box-shadow: none;
 }
 
-.accordion-header .accordion-button[aria-expanded=true] {
+/* .accordion-header .accordion-button[aria-expanded=true] {
     color: #F01F4B;
-}
+} */
 
-.accordion-header .accordion-button[aria-expanded=true] h4,
+/* .accordion-header .accordion-button[aria-expanded=true] h4,
 .accordion-header .accordion-button[aria-expanded=true] .h4 {
     color: inherit;
-}
+} */
 
 .accordion-item {
     border-radius: 14px !important;
@@ -43113,4 +43113,10 @@ code.docs-card-gist .blob-wrapper {
 
 .white-text {
     color: lightgray;
+}
+
+
+.accordion-item {
+    background-color: lightgray !important;
+    /* color: lightgray; */
 }
