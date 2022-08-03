@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PO-BOOK/static/css/main.248c0a5a.css",
+    "main.js": "/PO-BOOK/static/js/main.3249c8b9.js",
+    "static/js/787.5e30cfa0.chunk.js": "/PO-BOOK/static/js/787.5e30cfa0.chunk.js",
+    "static/media/zr1.jpg": "/PO-BOOK/static/media/zr1.dc82d6fe688c78ae1a5d.jpg",
+    "static/media/Z06.jpg": "/PO-BOOK/static/media/Z06.041aa737ea8c2c281e7e.jpg",
+    "static/media/eray.jpeg": "/PO-BOOK/static/media/eray.06aa222f0095d68be4dd.jpeg",
+    "static/media/stingray.jpeg": "/PO-BOOK/static/media/stingray.e55fee0c496e5874b8b5.jpeg",
+    "index.html": "/PO-BOOK/index.html",
+    "main.248c0a5a.css.map": "/PO-BOOK/static/css/main.248c0a5a.css.map",
+    "main.3249c8b9.js.map": "/PO-BOOK/static/js/main.3249c8b9.js.map",
+    "787.5e30cfa0.chunk.js.map": "/PO-BOOK/static/js/787.5e30cfa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248c0a5a.css",
+    "static/js/main.3249c8b9.js"
+  ]
+}
