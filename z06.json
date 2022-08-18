@@ -275,7 +275,7 @@
         {
             "title": "Exhaust Systems",
             "key": "exhaust",
-            "selectType": "multi",
+            "selectType": "single",
             "options": [
                 {
                     "code": "NGA",
@@ -436,7 +436,7 @@
         {
             "title": "Performance Package",
             "key": "performancePackages",
-            "selectType": "multi",
+            "selectType": "single",
             "options": [
                 {
                     "code": "Z07",
@@ -448,7 +448,8 @@
         {
             "title": "Roof Panels",
             "key": "roof",
-            "selectType": "multi",
+            "selectType": "single",
+            
             "options": [
                 {
                     "code": "C2Z",

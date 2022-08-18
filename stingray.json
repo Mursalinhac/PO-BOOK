@@ -345,7 +345,7 @@
         {
             "title": "Brakes",
             "key": "brakesColor",
-            "selectType": "multi",
+            "selectType": "single",
             "options": [
                 {
                     "code": "J6E",
@@ -367,7 +367,7 @@
         {
             "title": "Convertible Top",
             "key": "HTC",
-            "selectType": "multi",
+            "selectType": "single",
             "options": [
                 {
                     "code": "D84",
@@ -642,7 +642,7 @@
         {
             "title": "PACKAGES",
             "key": "dealerStickerPackage",
-            "selectType": "single",
+            "selectType": "multi",
             "options": [
                 {
                     "code": "PDV",
@@ -757,7 +757,7 @@
         {
             "title": "CF & SPOILERS",
             "key": "wings",
-            "selectType": "single",
+            "selectType": "multi",
             "options": [
                 {
                     "code": "5ZU",
@@ -937,7 +937,7 @@
         {
             "title": "MISC.",
             "key": "miscellenous",
-            "selectType": "single",
+            "selectType": "multi",
             "options": [
                 {
                     "code": "S2L",
