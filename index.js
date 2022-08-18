@@ -10,18 +10,13 @@ server.get("/health", (req, res) => {
 })
 
 server.get("/pricelist/:model", (req, res) => {
-    if (req.params.model === "stingray") {
-        fs.readFile('stingray.json', 'utf8', (err, data) => {
-            if (err) {
-                console.error(err);
-                return;
-            }
-            res.json(JSON.parse(data));
-        });
-    }
-    else {
-        res.send(req.params.model);
-    }
+    fs.readFile(`${req.params.model}.json`, 'utf8', (err, data) => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+        res.json(JSON.parse(data));
+    });
 })
 
 const port = process.env.PORT || 3001;
