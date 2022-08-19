@@ -3,7 +3,7 @@
     "model": "stingray",
     "title": "Stingray",
     "imageUrl": "ahoihadiog",
-    "data": [
+    "factoryInstalled": [
         {
             "title": "Select Model",
             "key": "model",
@@ -20,14 +20,14 @@
                     "price": 71500
                 },
                 {
-                    "code": "1YC67",
-                    "title": "Corvette Stingray Convertible 1LT",
-                    "price": 71700
-                },
-                {
                     "code": "1YC07",
                     "title": "Corvette Stingray Coupe 3LT",
                     "price": 76150
+                },
+                {
+                    "code": "1YC67",
+                    "title": "Corvette Stingray Convertible 1LT",
+                    "price": 71700
                 },
                 {
                     "code": "1YC67",
@@ -621,7 +621,9 @@
                     "price": 995
                 }
             ]
-        },
+        }
+    ],
+    "dealerInstalled": [
         {
             "title": "Engine Cover",
             "key": "engine",

@@ -3,7 +3,7 @@
     "model": "z06",
     "title": "Z06",
     "imageUrl": "ahoihadiog",
-    "data": [
+    "factoryInstalled": [
         {
             "title": "Select Model",
             "key": "model",
@@ -449,7 +449,6 @@
             "title": "Roof Panels",
             "key": "roof",
             "selectType": "single",
-            
             "options": [
                 {
                     "code": "C2Z",
@@ -614,7 +613,9 @@
                     "price": 1495
                 }
             ]
-        },
+        }
+    ],
+    "dealerInstalled": [
         {
             "title": "Dealer Installed",
             "key": "accessories",
