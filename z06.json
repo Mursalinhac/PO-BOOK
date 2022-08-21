@@ -4,8 +4,8 @@
     "title": "Z06",
     "imageUrl": "ahoihadiog",
     "customerInfo": {},
-    "factoryInstalled": [
-        {
+    "factoryInstalled": {
+        "model": {
             "title": "Select Model",
             "key": "model",
             "selectType": "single",
@@ -43,7 +43,7 @@
             ],
             "selected": {}
         },
-        {
+        "exteriorColor": {
             "title": "Extrerior Color",
             "key": "exteriorColor",
             "selectType": "single",
@@ -123,7 +123,7 @@
             ],
             "selected": {}
         },
-        {
+        "interiorColor":{
             "title": "Interior Color",
             "key": "interiorColor",
             "selectType": "single",
@@ -180,7 +180,7 @@
             ],
             "selected": {}
         },
-        {
+        "additionOptions": {
             "title": "Additional Options",
             "key": "additionOptions",
             "selectType": "multi",
@@ -225,7 +225,7 @@
             ],
             "selected": {}
         },
-        {
+        "brakesColor": {
             "title": "Brakes",
             "key": "brakesColor",
             "selectType": "multi",
@@ -259,7 +259,7 @@
             ],
             "selected": {}
         },
-        {
+        "HTC": {
             "title": "Convertible Top",
             "key": "HTC",
             "selectType": "multi",
@@ -279,7 +279,7 @@
             ],
             "selected": {}
         },
-        {
+        "exhaust": {
             "title": "Exhaust Systems",
             "key": "exhaust",
             "selectType": "single",
@@ -293,7 +293,7 @@
             ],
             "selected": {}
         },
-        {
+        "stickerpackage": {
             "title": "Exterior Appearance",
             "key": "stickerpackage",
             "selectType": "multi",
@@ -349,7 +349,7 @@
             ],
             "selected": {}
         },
-        {
+        "interiorTrim": {
             "title": "Interior Trim",
             "key": "interiorTrim",
             "selectType": "multi",
@@ -443,7 +443,7 @@
             ],
             "selected": {}
         },
-        {
+        "performancePackages": {
             "title": "Performance Package",
             "key": "performancePackages",
             "selectType": "single",
@@ -456,7 +456,7 @@
             ],
             "selected": {}
         },
-        {
+        "roof": {
             "title": "Roof Panels",
             "key": "roof",
             "selectType": "single",
@@ -476,7 +476,7 @@
             ],
             "selected": {}
         },
-        {
+        "seats": {
             "title": "Seats",
             "key": "seats",
             "selectType": "single",
@@ -508,7 +508,7 @@
             ],
             "selected": {}
         },
-        {
+        "special": {
             "title": "Special Edition",
             "key": "special",
             "selectType": "single",
@@ -522,7 +522,7 @@
             ],
             "selected": {}
         },
-        {
+        "stripePackages": {
             "title": "Stripe Packages",
             "key": "stripePackages",
             "selectType": "single",
@@ -592,7 +592,7 @@
             ],
             "selected": {}
         },
-        {
+        "wheels": {
             "title": "Wheels",
             "key": "wheels",
             "selectType": "single",
@@ -630,9 +630,9 @@
             ],
             "selected": {}
         }
-    ],
-    "dealerInstalled": [
-        {
+    },
+    "dealerInstalled": {
+        "accessories": {
             "title": "Dealer Installed",
             "key": "accessories",
             "selectType": "multi",
@@ -832,7 +832,7 @@
             ],
             "selected": {}
         },
-        {
+        "paintProtection": {
             "title": "XPEL",
             "key": "paintProtection",
             "selectType": "single",
@@ -868,5 +868,5 @@
             ],
             "selected": {}
         }
-    ]
+    }
 }

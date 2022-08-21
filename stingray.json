@@ -4,8 +4,8 @@
     "title": "Stingray",
     "imageUrl": "ahoihadiog",
     "customerInfo": {},
-    "factoryInstalled": [
-        {
+    "factoryInstalled": {
+        "model": {
             "title": "Select Model",
             "key": "model",
             "selectType": "single",
@@ -43,6 +43,7 @@
             ],
             "selected": {}
         },
+        "exteriorColor":
         {
             "title": "Extrerior Color",
             "key": "exteriorColor",
@@ -123,6 +124,7 @@
             ],
             "selected": {}
         },
+        "interiorColor":
         {
             "title": "Interior Color",
             "key": "interiorColor",
@@ -176,6 +178,7 @@
             ],
             "selected": {}
         },
+        "interiorTrim":
         {
             "title": "Interior Trim",
             "key": "interiorTrim",
@@ -276,6 +279,7 @@
             ],
             "selected": {}
         },
+        "performancePackages":
         {
             "title": "Z51 / MAG/ LIFT",
             "key": "performancePackages",
@@ -307,6 +311,7 @@
             ],
             "selected": {}
         },
+        "additionOptions":
         {
             "title": "Additional Options",
             "key": "additionOptions",
@@ -349,6 +354,7 @@
             ],
             "selected": {}
         },
+        "brakesColor":
         {
             "title": "Brakes",
             "key": "brakesColor",
@@ -372,6 +378,7 @@
             ],
             "selected": {}
         },
+        "HTC":
         {
             "title": "Convertible Top",
             "key": "HTC",
@@ -392,6 +399,7 @@
             ],
             "selected": {}
         },
+        "exhaust":
         {
             "title": "Exhaust Systems",
             "key": "exhaust",
@@ -412,6 +420,7 @@
             ],
             "selected": {}
         },
+        "stickerpackage":
         {
             "title": "Exterior Appearance",
             "key": "stickerpackage",
@@ -447,6 +456,7 @@
             ],
             "selected": {}
         },
+        "roof":
         {
             "title": "Roof Panels",
             "key": "roof",
@@ -479,6 +489,7 @@
             ],
             "selected": {}
         },
+        "seats":
         {
             "title": "Seats",
             "key": "seats",
@@ -511,6 +522,7 @@
             ],
             "selected": {}
         },
+        "special":
         {
             "title": "Special Edition",
             "key": "special",
@@ -525,6 +537,7 @@
             ],
             "selected": {}
         },
+        "stripePackages":
         {
             "title": "Stripe Packages",
             "key": "stripePackages",
@@ -595,6 +608,7 @@
             ],
             "selected": {}
         },
+        "wheels":
         {
             "title": "Wheels",
             "key": "wheels",
@@ -638,8 +652,9 @@
             ],
             "selected": {}
         }
-    ],
-    "dealerInstalled": [
+    },
+    "dealerInstalled": {
+        "engine":
         {
             "title": "Engine Cover",
             "key": "engine",
@@ -658,6 +673,7 @@
             ],
             "selected": {}
         },
+        "dealerStickerPackage":
         {
             "title": "PACKAGES",
             "key": "dealerStickerPackage",
@@ -687,6 +703,7 @@
             ],
             "selected": {}
         },
+        "carCover":
         {
             "title": "CAR COVERS",
             "key": "carCover",
@@ -729,6 +746,7 @@
                 }
             ]
         },
+        "grilleGuard":
         {
             "title": "SCRAPE ARMOR",
             "key": "grilleGuard",
@@ -753,6 +771,7 @@
             ],
             "selected": {}
         },
+        "cargo":
         {
             "title": "CARGO",
             "key": "cargo",
@@ -776,6 +795,7 @@
             ],
             "selected": {}
         },
+        "wings":
         {
             "title": "CF & SPOILERS",
             "key": "wings",
@@ -814,6 +834,7 @@
             ],
             "selected": {}
         },
+        "hashStripes":
         {
             "title": "HASH MARKS",
             "key": "hashStripes",
@@ -837,6 +858,7 @@
             ],
             "selected": {}
         },
+        "emblems":
         {
             "title": "EMBLEMS",
             "key": "emblems",
@@ -860,6 +882,7 @@
             ],
             "selected": {}
         },
+        "effects":
         {
             "title": "Ground Effects",
             "key": "effects",
@@ -891,6 +914,7 @@
             ],
             "selected": {}
         },
+        "caps":
         {
             "title": "CENTER CAPS",
             "key": "caps",
@@ -924,6 +948,7 @@
             ],
             "selected": {}
         },
+        "wheelLocks":
         {
             "title": "WHEEL LOCKS & LUGS",
             "key": "wheelLocks",
@@ -962,6 +987,7 @@
             ],
             "selected": {}
         },
+        "miscellenous":
         {
             "title": "MISC.",
             "key": "miscellenous",
@@ -1010,6 +1036,7 @@
             ],
             "selected": {}
         },
+        "borlaExhaust":
         {
             "title": "BORLA",
             "key": "borlaExhaust",
@@ -1030,6 +1057,7 @@
             ],
             "selected": {}
         },
+        "paintProtection":
         {
             "title": "XPEL",
             "key": "paintProtection",
@@ -1066,5 +1094,5 @@
             ],
             "selected": {}
         }
-    ]
+    }
 }
