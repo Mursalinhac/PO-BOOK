@@ -123,7 +123,7 @@
             ],
             "selected": {}
         },
-        "interiorColor":{
+        "interiorColor": {
             "title": "Interior Color",
             "key": "interiorColor",
             "selectType": "single",
@@ -868,5 +868,14 @@
             ],
             "selected": {}
         }
+    },
+    "price": {
+        "subTotal": 0,
+        "taxPercentage": 6.625,
+        "tax": 0,
+        "documentationFees": 0,
+        "misc": 0,
+        "gasGuzzler": 0,
+        "total": 0
     }
 }
