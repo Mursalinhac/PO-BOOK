@@ -3,6 +3,7 @@
     "model": "stingray",
     "title": "Stingray",
     "imageUrl": "ahoihadiog",
+    "customerInfo": {},
     "factoryInstalled": [
         {
             "title": "Select Model",
@@ -39,7 +40,8 @@
                     "title": "Corvette Stingray Convertible 3LT",
                     "price": 83150
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Extrerior Color",
@@ -118,7 +120,8 @@
                     "title": "Silver Flare Metallic",
                     "price": 0
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Interior Color",
@@ -170,7 +173,8 @@
                     "price": 0,
                     "additionalInformation": "70th Anniversary Edition Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Interior Trim",
@@ -269,7 +273,8 @@
                     "price": 1795,
                     "additionalInformation": "Std on 2LT and 3LT"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Z51 / MAG/ LIFT",
@@ -299,7 +304,8 @@
                     "title": "Z51 Performance Package ",
                     "price": 6345
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Additional Options",
@@ -340,7 +346,8 @@
                     "title": "Battery Protection Package",
                     "price": 100
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Brakes",
@@ -362,7 +369,8 @@
                     "title": "Edge Red Painted Brake Calipers",
                     "price": 695
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Convertible Top",
@@ -381,7 +389,8 @@
                     "price": 1295,
                     "additionalInformation": "Convertible Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Exhaust Systems",
@@ -400,7 +409,8 @@
                     "price": 1195,
                     "additionalInformation": "Std in Z51"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Exterior Appearance",
@@ -434,7 +444,8 @@
                     "price": 995,
                     "additionalInformation": "Coupe Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Roof Panels",
@@ -465,7 +476,8 @@
                     "price": 995,
                     "additionalInformation": "Coupe Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Seats",
@@ -496,7 +508,8 @@
                     "price": 1695,
                     "additionalInformation": "2LT Only; Std on 3LT"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Special Edition",
@@ -509,7 +522,8 @@
                     "price": 5995,
                     "additionalInformation": "3LT only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Stripe Packages",
@@ -578,7 +592,8 @@
                     "title": "Carbon Flash\/Edge Red Stinger Stripe",
                     "price": 500
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Wheels",
@@ -620,7 +635,8 @@
                     "title": "20-Spoke Gloss Black Forged Aluminum Wheels",
                     "price": 995
                 }
-            ]
+            ],
+            "selected": {}
         }
     ],
     "dealerInstalled": [
@@ -639,7 +655,8 @@
                     "title": "Engine Cover in Sterling Silver",
                     "price": 528
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "PACKAGES",
@@ -667,7 +684,8 @@
                     "title": "Contoured Liner Protection Package",
                     "price": 335
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "CAR COVERS",
@@ -732,7 +750,8 @@
                     "title": "Grille Guards by Scrape Armor",
                     "price": 647.45
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "CARGO",
@@ -754,7 +773,8 @@
                     "title": "Collapsible Cargo Area Organizer",
                     "price": 166.5
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "CF & SPOILERS",
@@ -791,7 +811,8 @@
                     "title": "Visible Carbon Fiber Grille Insert",
                     "price": 2160
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "HASH MARKS",
@@ -813,7 +834,8 @@
                     "title": "Fender Hash Stripes, Edge Red with Carbon Flash Metallic Accent",
                     "price": 287.5
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "EMBLEMS",
@@ -835,7 +857,8 @@
                     "title": "Rear Corvette Script, Painted in Arctic White",
                     "price": 461
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Ground Effects",
@@ -865,7 +888,8 @@
                     "title": "Splash Guards in Black",
                     "price": 255
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "CENTER CAPS",
@@ -897,7 +921,8 @@
                     "title": "Wheel Center Caps in Black with Gray Stingray Logo",
                     "price": 66.5
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "WHEEL LOCKS & LUGS",
@@ -934,7 +959,8 @@
                     "title": "Recovery Hook, Black",
                     "price": 111.5
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "MISC.",
@@ -981,7 +1007,8 @@
                     "title": "Battery Conditioner with crossed flags logo",
                     "price": 136.5
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "BORLA",
@@ -1000,7 +1027,8 @@
                     "title": "Corvette Cat-Back Dual-Mode Exhaust Upgrade System with Black PVD Coated Tips by Borla",
                     "price": 5450
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "XPEL",
@@ -1035,7 +1063,8 @@
                     "title": "Full Car PPF with Ceramic Coating",
                     "price": 7890
                 }
-            ]
+            ],
+            "selected": {}
         }
     ]
 }

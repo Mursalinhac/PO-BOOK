@@ -3,6 +3,7 @@
     "model": "z06",
     "title": "Z06",
     "imageUrl": "ahoihadiog",
+    "customerInfo": {},
     "factoryInstalled": [
         {
             "title": "Select Model",
@@ -39,7 +40,8 @@
                     "title": "Corvette Z06 Convertible 3LZ",
                     "price": 125850
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Extrerior Color",
@@ -118,7 +120,8 @@
                     "title": "Silver Flare Metallic",
                     "price": 0
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Interior Color",
@@ -174,7 +177,8 @@
                     "price": 695,
                     "additional information": "Requires Sold Order"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Additional Options",
@@ -218,7 +222,8 @@
                     "title": "Battery Protection Package",
                     "price": 100
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Brakes",
@@ -251,7 +256,8 @@
                     "title": "Edge Red Painted Brake Calipers",
                     "price": 695
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Convertible Top",
@@ -270,7 +276,8 @@
                     "price": 1295,
                     "additional information": "Convertible Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Exhaust Systems",
@@ -283,7 +290,8 @@
                     "price": 395,
                     "additional information": "Requires NPP on Stingray"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Exterior Appearance",
@@ -338,7 +346,8 @@
                     "price": 995,
                     "additional information": "Coupe Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Interior Trim",
@@ -431,7 +440,8 @@
                     "price": 1795,
                     "additional information": "Std on 2LZ and 3LZ"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Performance Package",
@@ -443,7 +453,8 @@
                     "title": "Z07 Performance Package",
                     "price": 8995
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Roof Panels",
@@ -462,7 +473,8 @@
                     "price": 995,
                     "additional information": "Coupe Only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Seats",
@@ -493,7 +505,8 @@
                     "price": 1695,
                     "additional information": "2LT Only; Std on 3LT"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Special Edition",
@@ -506,7 +519,8 @@
                     "price": 5995,
                     "additionalInformation": "3LT only"
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Stripe Packages",
@@ -575,7 +589,8 @@
                     "title": "Carbon Flash Edge Red Stinger Stripe",
                     "price": 500
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "Wheels",
@@ -612,7 +627,8 @@
                     "title": "Spider Design - Machined-faced Forged Aluminum Wheels",
                     "price": 1495
                 }
-            ]
+            ],
+            "selected": {}
         }
     ],
     "dealerInstalled": [
@@ -813,7 +829,8 @@
                     "title": "Premium Indoor Car Cover, Gray, Fully Rendered C8.R",
                     "price": 1195
                 }
-            ]
+            ],
+            "selected": {}
         },
         {
             "title": "XPEL",
@@ -848,7 +865,8 @@
                     "title": "Full Car PPF with Ceramic Coating",
                     "price": 7890
                 }
-            ]
+            ],
+            "selected": {}
         }
     ]
 }
