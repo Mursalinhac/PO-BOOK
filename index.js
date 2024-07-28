@@ -22,4 +22,4 @@ server.get("/pricelist/:model", (req, res) => {
 const port = process.env.PORT || 3001;
 server.listen(port, () =>
     console.log(`Your routes will be running on http://localhost:${port}`)
-);
+)
